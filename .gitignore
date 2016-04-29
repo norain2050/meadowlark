@@ -2,7 +2,7 @@
 node_modules
 *~
 .DS_Store
-.idea
+/.idea
 
 # put any other files you don't want to check in here,
 # such as .DS_Store (OSX), *.bat ,etc.
